@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lilian</h1>
-<h2 align="center">Junior fullstack developer and instructor based in Berlin, Germany</h2>
+<h2 align="center">I am a fullstack developer and instructor based in Berlin, Germany</h2>
 
-- 🔭 I’m currently working on **the WBS Portfolio Generator**
+- 🔭 I’m currently working on **the Orientation Course Self-learning Track**
 
-- 🌱 I’m currently learning **NextJS, Tailwind, Docker, Storybook**
+- 🌱 I’m currently learning **Python and Runestone**
 
 - 💬 Ask me about **the MERN/PERN stack**
 
@@ -26,13 +26,15 @@
 <div align="center">
   <p align='center'>Languages</p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/> 
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python logo" width="40" height="40"/> 
   </a> 
 </div>
-
 <br>
 <br>
 
