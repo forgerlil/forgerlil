@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lilian</h1>
-<h2 align="center">I am a fullstack developer and instructor based in Berlin, Germany</h2>
+<h2 align="center">I am a fullstack developer (and occasionally instructor) based in Berlin, Germany</h2>
 
-- 🔭 I’m currently working on **the Orientation Course Self-learning Track**
-
-- 🌱 I’m currently learning **Python and Runestone**
+- 🌱 I’m currently learning **Python and Django**
 
 - 💬 Ask me about **the MERN/PERN stack**
 
 - 📫 You can reach me on **lilian.el.forger@gmail.com**
 
-- ⚡ Fun fact - **When not coding, I am busy with tabletop miniatures and wargaming**
+- ⚡ Fun fact - **When not coding, I am geeking over tabletop miniatures (Warhammer) or videogaming**
 
 <h3 align="center">But you can connect with me on:</h3>
 <p align="center">
